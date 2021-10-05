@@ -1,7 +1,6 @@
 # Designing Interfaces Notes
 
-### Preface:-
-<hr>
+
 <p>One could say,<code>“The applications that are easy to use are designed to be intuitive.”</code><br> <br>Well, 
 yes. That’s almost a tautology.</p>
 

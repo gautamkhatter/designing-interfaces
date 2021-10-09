@@ -217,14 +217,17 @@ advocate for the users.</p>
 - Safe Exploration
 
 
-<i>“Let me explore without getting lost or getting into trouble.”</i>
-<br>
+<b><i>“Let me explore without getting lost or getting into trouble.”</i></b>
+<br><br>
 When someone feels like she can explore an interface and not suffer dire consequences, 
 she’s likely to learn more—and feel more positive about it—than someone who doesn’t explore. Good software allows people to try something unfamiliar, back out, and try something else, all without stress.
 
-<br>
+<br><b><i></i></b>
 
 - Instant Gratification
+
+
+<b><i>“I want to accomplish something now, not later.”</i></b><br><br>
 
 People like to see immediate results from the actions they take—it’s human nature. If 
 someone starts using an application and gets a “success experience” within the first few 
@@ -236,6 +239,9 @@ had taken a while to figure things out.
 
 
 - Satisficing
+
+<b><i>“This is good enough. 
+I don’t want to spend more time learning to do it better.”</i></b><br><br>
 
 When people look at a new interface, they don’t read every piece of it methodically and 
 then decide, “Hmmm, I think this button has the best chance of getting me what I want.” 
@@ -249,6 +255,8 @@ kinds of economic and social situations. People are willing to accept “good en
 <br>
 
 - Changes in Midstream
+
+<b><i>“I changed my mind about what I was doing.”</i></b><br><br>
 
 Occasionally, people change what they’re doing while in the middle of doing it. Someone 
 may walk into a room with the intent of finding a key she had left there, but while she’s there, 
@@ -265,6 +273,8 @@ the patterns called Wizard (Chapter 2) and Modal Panel (Chapter 3) for examples.
   
 - Deferred Choices
 
+<b><i>“I don’t want to answer that now; just let me finish!”</i></b><br><br>
+
 This follows from people’s desire for instant gratification. If you ask a task-focused user 
 unnecessary questions in the process, he may prefer to skip the questions and come back 
 to them later.
@@ -278,6 +288,9 @@ an hour answering essay questions and finding the perfect avatar image.
 
 
 - Incremental Construction
+
+<b><i>“Let me change this. That doesn’t look right; let me change it again. 
+That’s better.”</i></b><br><br>
 
 When people create things, they don’t usually do it all in a precise order. Even an expert 
 doesn’t start at the beginning, work through the creation process methodically, and come 
@@ -300,17 +313,137 @@ little or no delay between the user making changes and seeing the results.
 
 - Habituation
 
+<b><i>“That gesture works everywhere else; why doesn’t it work here, too?”</i></b><br><br>
 
+When one uses an interface repeatedly, some frequent physical actions become reflexive: 
+pressing Ctrl-S to save a document, clicking the Back button to leave a web page, pressing Return to close a modal dialog box, using gestures to show and hide windows—even 
+pressing a car’s brake pedal. The user no longer needs to think consciously about these 
+actions. They’ve become habitual.
+
+<br><br>
+
+This tendency helps people become expert users of a tool (and helps create a sense of flow, 
+too). Habituation also measurably improves efficiency, as you can imagine. But it can also 
+lay traps for the user. If a gesture becomes a habit, and the user tries to use it in a situation 
+when it doesn’t work—or, worse, does something destructive—the user is caught short. 
+He suddenly has to think about the tool again (What did I just do? How do I do what I 
+intended?), and he might have to undo any damage done by the gesture.
 
 - Microbreaks
+
+<b><i>“I’m waiting for the train. Let me do something useful for two minutes.”</i></b><br><br>
+
+People often find themselves with a few minutes of down time. They might need a mental 
+break while working; they might be in line at a store or sitting in a traffic jam. They might 
+be bored or impatient. They want to do something constructive or entertaining to pass the 
+time, knowing they won’t have enough time to get deep into an online activity.
+
+<br><br>
+
+The key to supporting microbreaks is to make an activity easy and fast to reach—as easy 
+as turning on the device and selecting an application (or website). Don’t require complicated setup. Don’t take forever to load. And if the user needs to sign in to a service, try to 
+retain the previous authentication so that she doesn’t have to sign in every time.
+<br><br>
+
+Long load times deserve another mention. Taking too long to load content is a sure way 
+to make users give up on your app—especially during microbreaks! Make sure the page is 
+engineered so that readable, useful content loads first, and with very little delay.
+
+
 - Spatial Memory
+
+<b><i>“I swear that button was here a minute ago. Where did it go?”</i></b><br><br>
+
+When people manipulate objects and documents, they often find them again later by 
+remembering where they are, not what they’re named.
+<br><br>
+Many applications put their dialog buttons—OK, Cancel, and so on—in predictable places, partly because spatial memory for them is so strong. In complex applications, people 
+may also find things by remembering where they are relative to other things: tools on 
+toolbars, objects in hierarchies, and so forth. Therefore, you should use patterns such as 
+Responsive Disclosure (Chapter 4) carefully. Adding items to blank spaces in an interface 
+doesn’t cause problems, but rearranging existing controls can disrupt spatial memory and 
+make things harder to find. It depends. Try it out on your users if you’re not sure.
+
+
 - Prospective Memory
+
+<b><i>“I’m putting this here to remind myself to deal with it later.”</i></b><br><br>
+
+Prospective memory is a well-known phenomenon in psychology that doesn’t seem to 
+have gained much traction yet in interface design. But I think it should. 
+<br><br>
+We engage in prospective memory when we plan to do something in the future, and we 
+arrange some way of reminding ourselves to do it. For example, if you need to bring a 
+book to work the next day, you might put it on a table beside the front door the night 
+before. If you need to respond to someone’s email later (just not right now!), you might 
+leave that email on your screen as a physical reminder. Or if you tend to miss meetings, 
+you might arrange for Outlook or your mobile device to ring an alarm tone five minutes 
+before each meeting.
+
 - Streamlined Repetition
+
+<b><i>“I have to repeat this how many times?”</i></b><br><br>
+In many kinds of applications, users sometimes find themselves having to perform the 
+same operation over and over again. The easier it is for them, the better. If you can help 
+reduce that operation down to one keystroke or click per repetition—or, better, just a few 
+keystrokes or clicks for all repetitions—you will spare users much tedium.
+br><br>
+Here’s a more general example. Photoshop lets you record “actions” when you want to 
+perform some arbitrary sequence of actions with a single click. If you want to resize, crop, 
+brighten, and save 20 images, you can record those four steps as they’re done to the first 
+image, and then click that action’s Play button for each of the remaining 19. See the Macros
+pattern in Chapter 6 for more information.
+
 - Keyboard Only
+
+<b><i>“Please don’t make me use the mouse.”</i></b><br><br>
+Some people have real physical trouble using a mouse. Others prefer not to keep switching between the mouse and keyboard because that takes time and effort—they’d rather 
+keep their hands on the keyboard at all times. Still others can’t see the screen, and their 
+assistive technologies often interact with the software using just the keyboard API.
+<br><br>
+For the sakes of these users, some applications are designed to be “driven” entirely via the 
+keyboard. They’re usually mouse-driven too, but there is no operation that must be done 
+with only the mouse—keyboard-only users aren’t shut out of any functionality.
+
 - Other People’s Advice
+
+<b><i>“What did everyone else say about this?”</i></b><br><br>
+
+People are social. As strong as our opinions may sometimes be, we tend to be influenced 
+by what our peers think. 
+<br><br>
+Witness the spectacular growth of online “user comments”: Amazon for books (and everything else), IMDb for movies, Flickr for photographs, and countless retailers who offer 
+space for user-submitted product reviews. Auction sites such as eBay formalize user opinions into actual prices. Blogs offer unlimited soapbox space for people to opine about and 
+discuss anything they want, from products to programming to politics.
+
+
 - Personal Recommendations
 
+<b><i>“My friend told me to read this, so it must be pretty good.”</i></b><br><br>
+This pattern operates on the same principle as the previous one—we are strongly influenced by our peers. So much so, in fact, that we are much more likely to view the articles 
+and videos that someone refers us to than those we find in some other way. The personal 
+touch makes a big difference when we decide what to read online.
+<br><br>
+Therefore, support person-to-person sharing of content. Let people send a URL (or 
+the content itself) to friends and family, either via email or via a social network such as 
+Facebook or Buzz. 
+<br><br>
+This implies a host of mechanisms that need to be used or designed in. First, what exactly 
+are users sharing? If the content doesn’t already have a URL, see if one can be constructed 
+for it. (The Deep-linked State pattern in Chapter 3 talks about this.) This URL should direct the recipient to a page with the same content that the sender was seeing, to avoid 
+confusion.
+<br><br>
+Second, whom will they share it with? Let users connect to a social network, or give them 
+a way to send email. 
+<br><br>
+Third, what implications does this reference have? If a user sends email to a few “close ties,” 
+along with a personal message—one the user typed, not an automatic “personal message!—
+that can potentially carry a very high recommendation. After all, someone cared enough 
+to think about you and take time to write a note. The specialness declines as the sender 
+CCs more and more email addresses, though.
 
+<br><br>
+<h3 align="center">The End</h3>
 
 
 

@@ -103,28 +103,33 @@ might affect those attitudes
 Although 
 this book does not address user research, here are some methods and topics to consider:
 
-<p><i>Direct observation</i><br>
-Interviews and onsite user visits put you directly into the user’s world. You can ask 
+<pre>Direct observation</pre>
+
+<p> Interviews and onsite user visits put you directly into the user’s world. You can ask 
 users about what their goals are and what tasks they typically do. Usually done “on location,” where users would actually use the software (e.g., in a workplace or at home), 
 interviews can be structured—with a predefined set of questions—or unstructured, 
 where you probe whatever subject comes up. Interviews give you a lot of flexibility; 
 you can do many or a few, long or short, formal or informal, on the phone or in person. 
 These are great opportunities to learn what you don’t know. Ask why. Ask it again.</p>
 
-<p><i>Case studies</i><br>
-Case studies give you deep, detailed views into a few representative users or groups of 
+<pre>Case studies</pre>
+
+<p> Case studies give you deep, detailed views into a few representative users or groups of 
 users. You can sometimes use them to explore “extreme” users that push the boundaries of what the software can do, especially when the goal is a redesign of existing 
 software. You can also use them as longitudinal studies—exploring the context of use 
 over months or even years. Finally, if you’re designing custom software for a single 
 user or site, you’ll want to learn as much as possible about the actual context of use.</p>
 
-<p><i>Surveys</i><br>
-Written surveys can collect information from many users. You can actually get statistically significant numbers of respondents with these. Since there’s no direct human contact, you will miss a lot of extra information—whatever you don’t ask about, you won’t 
+<pre>Surveys</pre>
+
+<p> Written surveys can collect information from many users. You can actually get statistically significant numbers of respondents with these. Since there’s no direct human contact, you will miss a lot of extra information—whatever you don’t ask about, you won’t 
 learn about—but you can get a very clear picture of certain aspects of your target audience. Careful survey design is essential. If you want reliable numbers instead of a qualitative “feel” for the target audience, you absolutely must write the questions correctly, pick 
 the survey recipients correctly, and analyze the answers correctly—and that’s a science.</p>
 
-<p><i>Personas</i><br>
-Personas aren’t a data-gathering method, but they do help you figure out what to do 
+
+<pre>Personas</pre>
+
+<p> Personas aren’t a data-gathering method, but they do help you figure out what to do 
 with your data once you’ve got it. This is a design technique that “models” the target 
 audiences. For each major user group, you create a fictional person that captures the 
 most important aspects of the users in that group: what tasks they’re trying to accomplish, their ultimate goals, and their experience levels in the subject domain and with 
@@ -214,7 +219,7 @@ advocate for the users.</p>
 
 <br>
 
-- Safe Exploration
+<pre>Safe Exploration</pre>
 
 
 <b><i>“Let me explore without getting lost or getting into trouble.”</i></b>
@@ -224,7 +229,7 @@ she’s likely to learn more—and feel more positive about it—than someone wh
 
 <br><b><i></i></b>
 
-- Instant Gratification
+<pre>Instant Gratification</pre>
 
 
 <b><i>“I want to accomplish something now, not later.”</i></b><br><br>
@@ -238,7 +243,7 @@ had taken a while to figure things out.
 <br>
 
 
-- Satisficing
+<pre>Satisficing</pre>
 
 <b><i>“This is good enough. 
 I don’t want to spend more time learning to do it better.”</i></b><br><br>
@@ -254,7 +259,7 @@ kinds of economic and social situations. People are willing to accept “good en
 
 <br>
 
-- Changes in Midstream
+<pre>Changes in Midstream</pre>
 
 <b><i>“I changed my mind about what I was doing.”</i></b><br><br>
 
@@ -271,7 +276,7 @@ the patterns called Wizard (Chapter 2) and Modal Panel (Chapter 3) for examples.
 
 <br>
   
-- Deferred Choices
+<pre>Deferred Choices</pre>
 
 <b><i>“I don’t want to answer that now; just let me finish!”</i></b><br><br>
 
@@ -287,7 +292,7 @@ an hour answering essay questions and finding the perfect avatar image.
 <br>
 
 
-- Incremental Construction
+<pre>Incremental Construction</pre>
 
 <b><i>“Let me change this. That doesn’t look right; let me change it again. 
 That’s better.”</i></b><br><br>
@@ -311,7 +316,7 @@ little or no delay between the user making changes and seeing the results.
 
 <br>
 
-- Habituation
+<pre>Habituation</pre>
 
 <b><i>“That gesture works everywhere else; why doesn’t it work here, too?”</i></b><br><br>
 
@@ -329,7 +334,9 @@ when it doesn’t work—or, worse, does something destructive—the user is cau
 He suddenly has to think about the tool again (What did I just do? How do I do what I 
 intended?), and he might have to undo any damage done by the gesture.
 
-- Microbreaks
+<br>
+
+<pre>Microbreaks</pre>
 
 <b><i>“I’m waiting for the train. Let me do something useful for two minutes.”</i></b><br><br>
 
@@ -349,8 +356,9 @@ Long load times deserve another mention. Taking too long to load content is a su
 to make users give up on your app—especially during microbreaks! Make sure the page is 
 engineered so that readable, useful content loads first, and with very little delay.
 
+<br>
 
-- Spatial Memory
+<pre>Spatial Memory</pre>
 
 <b><i>“I swear that button was here a minute ago. Where did it go?”</i></b><br><br>
 
@@ -364,8 +372,9 @@ Responsive Disclosure (Chapter 4) carefully. Adding items to blank spaces in an 
 doesn’t cause problems, but rearranging existing controls can disrupt spatial memory and 
 make things harder to find. It depends. Try it out on your users if you’re not sure.
 
+<br>
 
-- Prospective Memory
+<pre>Prospective Memory</pre>
 
 <b><i>“I’m putting this here to remind myself to deal with it later.”</i></b><br><br>
 
@@ -380,7 +389,9 @@ leave that email on your screen as a physical reminder. Or if you tend to miss m
 you might arrange for Outlook or your mobile device to ring an alarm tone five minutes 
 before each meeting.
 
-- Streamlined Repetition
+<br>
+
+<pre>Streamlined Repetition</pre>
 
 <b><i>“I have to repeat this how many times?”</i></b><br><br>
 In many kinds of applications, users sometimes find themselves having to perform the 
@@ -394,7 +405,9 @@ brighten, and save 20 images, you can record those four steps as they’re done 
 image, and then click that action’s Play button for each of the remaining 19. See the Macros
 pattern in Chapter 6 for more information.
 
-- Keyboard Only
+<br>
+
+<pre>Keyboard Only</pre>
 
 <b><i>“Please don’t make me use the mouse.”</i></b><br><br>
 Some people have real physical trouble using a mouse. Others prefer not to keep switching between the mouse and keyboard because that takes time and effort—they’d rather 
@@ -405,7 +418,9 @@ For the sakes of these users, some applications are designed to be “driven” 
 keyboard. They’re usually mouse-driven too, but there is no operation that must be done 
 with only the mouse—keyboard-only users aren’t shut out of any functionality.
 
-- Other People’s Advice
+<br>
+
+<pre>Other People’s Advice</pre>
 
 <b><i>“What did everyone else say about this?”</i></b><br><br>
 
@@ -416,8 +431,10 @@ Witness the spectacular growth of online “user comments”: Amazon for books (
 space for user-submitted product reviews. Auction sites such as eBay formalize user opinions into actual prices. Blogs offer unlimited soapbox space for people to opine about and 
 discuss anything they want, from products to programming to politics.
 
+<br>
 
-- Personal Recommendations
+
+<pre>Personal Recommendations</pre>
 
 <b><i>“My friend told me to read this, so it must be pretty good.”</i></b><br><br>
 This pattern operates on the same principle as the previous one—we are strongly influenced by our peers. So much so, in fact, that we are much more likely to view the articles 

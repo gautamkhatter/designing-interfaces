@@ -22,10 +22,10 @@ Mac OS, or a Walkman). People are smarter than that. As long as the parts are re
 previous knowledge to a novel interface and figure it out</p>
 
 <br>
-<hr>
+
 
 ### Patterns In General:- 
-<hr>
+
 <p>In essence, patterns are structural and behavioral features that improve the “habitability” of something—a user interface, a website, an object-oriented program, or a building. 
 They make things easier to understand or more beautiful; they make tools more useful 
 and usable</p>

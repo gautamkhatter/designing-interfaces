@@ -131,33 +131,39 @@ things like this do happen in real life.)</p>
 
 <br><br>
 Here are some ways you can use these patterns:
-<p><b><i>Learning</i></b><br>
-If you don’t have much design experience, a set of patterns can serve as a learning tool. 
+
+<pre>Learning</pre>
+
+<p>If you don’t have much design experience, a set of patterns can serve as a learning tool. 
 You may want to read over it to get ideas, or refer back to specific patterns as the need 
 arises. Just as expanding your vocabulary helps you express ideas in language, expanding your interface design “vocabulary” helps you create more expressive designs.</p>
 
-<p><b><i>Examples</i></b><br>
-Each pattern in this book has at least one example. Some have many; they might be 
+<pre>Examples</pre>
+ 
+<p>Each pattern in this book has at least one example. Some have many; they might be 
 useful to you as a sourcebook. You may find wisdom in the examples that is missing 
 in the text of the pattern. If you’re a designer who knows the patterns already, the 
 examples may be the most useful aspect of the book for you.</p>
   
-  <p><b><i>Terminology</i></b><br>
-If you talk to users, engineers, or managers about interface design, or if you write 
+ <pre>Terminology</pre>
+ 
+<p>If you talk to users, engineers, or managers about interface design, or if you write 
 specifications, then you could use the pattern names as a way of communicating and 
 discussing ideas. This is another well-known benefit of pattern languages. (The terms 
 “singleton” and “factory,” for instance, were originally pattern names, but they’re now 
 in common use among software engineers.)</p>
   
-  <p><b><i>Comparison of design alternatives</i></b><br>
-If you initially decided to use Module Tabs to organize material on a page and it’s not 
+  <pre>Comparison of design alternatives</pre>
+  
+<p>If you initially decided to use Module Tabs to organize material on a page and it’s not 
 working quite as well as you hoped, you might use these patterns to come up with alternatives, such as Titled Sections or an Accordion. Other sets of “either/or” patterns are 
 presented in this book, often with reasons to choose one pattern or another. Skilled 
 designers know that presenting alternative designs to clients frequently leads to a 
 better choice in the end.</p>
 
-  <p><b><i>Inspiration</i></b><br>
-Each pattern description tries to capture the reasons why the pattern works to make 
+<pre>Inspiration</pre>
+
+ <p> Each pattern description tries to capture the reasons why the pattern works to make 
 an interface easier or more fun. If you get it, but want to do something a little different 
 from the examples, you can be creative with your “eyes open.” You could also use the 
 book to jumpstart your creative process by flipping through it for ideas.</p>
